@@ -11,7 +11,7 @@
 > They fear the looser!
 
 ```
-<img src="https://cdn.discordapp.com/attachments/1083107952707244062/1134249451884650548/c7d85d3af0e5d9cf8f63b41e43d11831.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="[https://cdn.discordapp.com/attachments/1083107952707244062/1134249451884650548/c7d85d3af0e5d9cf8f63b41e43d11831.gif](https://media.discordapp.net/attachments/1072365168652206120/1132659787771940934/CDC71FCD-1C0E-41DF-A2FB-AF7DC89D6364.gif)" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
