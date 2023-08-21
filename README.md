@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm looser</b><br>
-  <a href="https://discord.gg/aBVmH2faj8">Discord</a> |
+  <a href="https://discord.gg/vlones">Discord</a> |
   <a href="https://www.youtube.com/channel/7nyco">YouTube</a> |
   <a href="https://fir3.cc/thenyc">Web</a> |
 
