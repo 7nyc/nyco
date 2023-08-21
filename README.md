@@ -27,7 +27,7 @@ Languages  :  c# - - py
 ```
 
 
-<img src="g" style="max-width: 100%;">
+
 
 
 
